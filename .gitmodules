@@ -1,0 +1,3 @@
+[submodule "src/SimpleEventStore"]
+	path = src/SimpleEventStore
+	url = git@github.com:ElasticCoder/SimpleEventStore.git
