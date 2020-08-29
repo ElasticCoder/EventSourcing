@@ -2,7 +2,7 @@
 
 
 ## Simple Event Store
-Simple Event Store is an Event Sourcing framework that is available in [GitHub].(https://github.com/ASOS/SimpleEventStore)
+Simple Event Store is an Event Sourcing framework that is available in [GitHub](https://github.com/ASOS/SimpleEventStore).
 ### Class diagram
 ![Class Diagram](./ClassDiagram.png)
 
