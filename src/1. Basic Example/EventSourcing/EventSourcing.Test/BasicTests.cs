@@ -20,7 +20,7 @@ namespace EventSourcing.Test
         [Test]
         public async Task GivenAnEmptyAccount_WhenIApplyDeposit_ThenAmountIsIncreased()
         {
-            var id = "123";
+            const string id = "123";
             var account = new BankAccount(id);
             await repository.LoadAsync(account);
             account.Deposit(10);
